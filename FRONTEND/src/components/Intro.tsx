@@ -36,7 +36,7 @@ export const Intro = () => {
 
                     </div>
                     <div>
-                        <span>Cuando aciertes </span>
+                        <span>gUIA DE COLORES </span>
                         <p>
                             Ganas dos vidas ➕ <HeartPlus /><HeartPlus />
                         </p>
